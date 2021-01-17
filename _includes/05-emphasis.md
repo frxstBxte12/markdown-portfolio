@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **Cisco Routing and Switching**
+- *Microsoft Exchange*
+- *Python*
+- **Active Directory**
+- _email server_
+- __AWS certified cloud practitioner__ *pending*
