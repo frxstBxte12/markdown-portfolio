@@ -1,0 +1,6 @@
+- **Cisco Routing and Switching**
+- *Microsoft Exchange*
+- *Python*
+- **Active Directory**
+- _email server_
+- __AWS certified cloud practitioner__ *pending*
